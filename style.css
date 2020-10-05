@@ -2,18 +2,18 @@ html, body {
     margin: 0;
     padding: 0;
     width: 100%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 body {
     font-family: "Helvetica Neue",sans-serif;
-    font-weight: lighter;
 }
 
 header {
     width: 100%;
     height: 50vh;
-    background: url(./assets/surrender.jpg) no-repeat 50% 50%;
-    background-size: cover;
+    /* background: url(./assets/surrender.jpg) no-repeat 50% 50%;
+    background-size: cover; */
 }
 
 input {
