@@ -2,12 +2,11 @@ html, body {
     margin: 0;
     padding: 0;
     width: 100%;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-body {
+/* body {
     font-family: "Helvetica Neue",sans-serif;
-}
+} */
 
 header {
     width: 100%;
